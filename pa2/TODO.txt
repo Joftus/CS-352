@@ -1,0 +1,2 @@
+1. README docs
+2. finish CHANGELOG entries

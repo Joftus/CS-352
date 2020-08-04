@@ -1,0 +1,7 @@
+NOTE: piping is working but I couldn't figure out how to plug in the input from cmd 1 into
+	cmd 2 properly. (line 128)
+
+cmds:
+	- make clean
+	- make
+	- ./osh

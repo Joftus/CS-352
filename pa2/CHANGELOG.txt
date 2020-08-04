@@ -1,0 +1,32 @@
+MARCH 22nd
+	- read over project outline
+	- made project skeleton and minimal logging
+
+MARCH 24th
+	- made Manager class to store thread positions
+	- main thread almost complete
+	- finished reader thread
+
+MARCH 25th
+	- statistics can be displayed
+	- worked with counters
+	- trouble sharing data between threads using Manager
+
+MARCH 28th
+	- scraping Manager and separate c file impl
+		single file (main.c) to simplify info sharing between threads
+	- implement queue to replace Manager
+	- semaphore impl try 1... failed
+
+APRIL 1st
+	- finish queue impl
+	- encryption thread almost done
+	- semaphore impl try 2... done
+
+APRIL 3rd
+	- finished encryption thread (wrapping and A->a)
+	- finished writer thread
+	- cleaned up code, edited statistics display
+	- defined code by blocks, turned into a fat project
+	- documentation complete
+	- testing... complete :)
